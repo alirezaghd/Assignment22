@@ -1,0 +1,2 @@
+INSERT INTO products(name,count,price) VALUES
+('iphone 6s',0,20000000),('iphone 13 pro',8,37000000),('iphone 13 pro max',12,48000000),('iphone 13 mini',3,26000000),('iphone 13 ',4,29000000),('iphone 13 case ',20,22000),('iphone 13 glass ',8,28000),('iphone 13 usb',2,29500)
